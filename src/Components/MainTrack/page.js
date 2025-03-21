@@ -43,7 +43,7 @@ const MainTrack = () => {
       </div>
       <div className="flex items-center gap-4 bg-white p-4 rounded-xl shadow-md w-[300px] m-2">
         <div className="w-20">
-          <Image src={python } alt="python " />
+      
         </div>
         <div>
           <h3 className="font-bold text-lg">Backend Development</h3>
@@ -52,7 +52,7 @@ const MainTrack = () => {
           </p>
         </div>
       </div>
-        {/* Card 3 - Full Stack */}
+    
         <div className="flex items-center gap-4 bg-white p-4 rounded-xl shadow-md w-[300px] m-2">
         <div className="w-20">
           <Image src={host} alt="Fullstack" />
